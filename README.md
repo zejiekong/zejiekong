@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-🌱 I’m currently learning ROS and C++
-📫 How to reach me: ZKONG002@e.ntu.edu.sg
-😄 Pronouns: He
-⚡ Fun fact: I am from Malaysia
+####🌱 I’m currently learning ROS and C++
+####📫 How to reach me: ZKONG002@e.ntu.edu.sg
+####😄 Pronouns: He
+####⚡ Fun fact: I am from Malaysia
 
 <!--
 **zejiekong/zejiekong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
