@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-#### 🌱 I’m currently learning ROS and C++
+#### 🤖 I’m currently learning ROS and C++
 #### 📫 How to reach me: ZKONG002@e.ntu.edu.sg
-#### 😄 Pronouns: He
-#### ⚡ Fun fact: I am from Malaysia
+#### 😎 Pronouns: He
+#### ⚡ Fun fact: I self-learnt Python through CodeAcademy before attending University. One of my earlier projects was a Python script that helps to keep track of my finances (savings, expenditure). 
 
 <!--
 **zejiekong/zejiekong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
