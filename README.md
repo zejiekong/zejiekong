@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### 🤖 I’m currently learning ROS and C++
-#### 📫 How to reach me: ZKONG002@e.ntu.edu.sg (email)
+#### 📫 How to reach me: ZKONG002@e.ntu.edu.sg (email) , www.linkedin.com/in/ze-jie-kong (linkedin)
 #### 😎 Pronouns: He
 #### ⚡ Fun fact: 
 #### I self-learnt Python through CodeAcademy before attending University. One of my earlier projects was a Python script that helps to keep track of my finances.
