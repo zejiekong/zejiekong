@@ -2,6 +2,7 @@
 
 #### 🤖 I’m currently learning ROS and C++
 #### 📫 How to reach me: ZKONG002@e.ntu.edu.sg (email) | www.linkedin.com/in/ze-jie-kong (linkedin)
+#### 💼 Porfolio: https://zejiekong.github.io/Portfolio/
 #### 😎 Pronouns: He
 
 
